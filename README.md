@@ -77,7 +77,7 @@
 # 你在叠纸?
 
 
-![Untitled](./WechatIMG162174.jpg)
+![Untitled](./imgs/WechatIMG162174.jpg)
 
 # 踢小册读者
 
