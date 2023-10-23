@@ -2,7 +2,7 @@
 
 # 心疼父亲,但是止疼药没用,先给关心的朋友删了
 
-![Untitled](./Untitled.png)
+![Untitled](./imgs/Untitled.png)
 
 # 浅浅挂个人
 
